@@ -1,5 +1,5 @@
 <div align="center">
-   <img  src="https://user-images.githubusercontent.com/78514869/155858013-887dd01c-2d96-44ac-b8f6-c5d10afeb89f.svg">
+	<h1>Dashgo. </h1>
 </div>
 
 
@@ -29,18 +29,29 @@ The following tools were used in the construction of the project:
 
 -   **React**
 -   **React Icons**
+-   **React Hook Form**
+-   **React Query**
 -   **TypeScript**
 -   **NextJs**
--   **Prismic CMS**
--   **Sass**
+-   **Chakra UI**
+-   **Apexcharts.js**
+-   **Yup**
+-   **Mirage JS**
+-   **Faker**
 
 ## Layout
 
-* **Home**
-<br/>
+* **Dashboard**
 
-![blog](https://user-images.githubusercontent.com/78514869/155858006-572d2498-66e0-47e0-8a34-47fb791b0ca3.png)
+![dashboard](https://user-images.githubusercontent.com/78514869/155859281-2d99e33f-5b32-4a49-bfc9-f19481925d0b.png)
 
+* **Users**
+
+![users](https://user-images.githubusercontent.com/78514869/155859279-97d712a7-a184-45ed-923f-740a917fc8dd.png)
+
+* **Create User**
+
+![createuser](https://user-images.githubusercontent.com/78514869/155859277-fd349e3c-4ce7-44bb-9ca8-f781f2426a58.png)
 
 
 ## Getting Started
@@ -59,8 +70,8 @@ The project can be built with npm or yarn, so choose one of the approach bellow 
 * To download the project follow the instructions bellow:
 
 ```
-1. git clone https://github.com/franciscovinicios/spacetraveling..git
-2. cd spacetraveling.
+1. git clone https://github.com/franciscovinicios/dashgo.git
+2. cd dashgo
 ```
 
 
